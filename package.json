@@ -1,1 +1,12 @@
-
+{
+  "name": "sayianpuma-faceit-elo",
+  "version": "1.0.0",
+  "description": "SAYIANPUMA FACEIT ELO Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
